@@ -1,6 +1,7 @@
 {
   "name": "graph",
   "version": "0.1.0",
+  "homepage": "https://k4m4l0v.github.io/table",
   "private": true,
   "dependencies": {
     "highcharts": "^11.4.0",
